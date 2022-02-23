@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-chiranjeevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/?trk=seo-authwall-base_signin-form_submit)]
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Chiranjeevi-yellow)](https://stackoverflow.com/users/18252545/chiranjeevi)
 
 I'm
 Full Stack Solution Architect
