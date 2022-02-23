@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Chiranjeevi-yellow)](https://stackoverflow.com/users/18252545/chiranjeevi)
 
 I'm
-Full Stack Solution Architect
+Full Stack Developer
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies ( Python), front-end development ( HTML5, CSS3)
 
 ![Visitor Count](https://profile-counter.glitch.me/ChiranjeeviMl/count.svg)
