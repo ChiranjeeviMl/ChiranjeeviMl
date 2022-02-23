@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Chiranjeevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/garikipati-chiranjeevi-7887b61b0/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Chiranjeevi-green)](https://www.Chiranjeevi)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Chiranjeevi-yellow)](https://stackoverflow.com/users/18252545/chiranjeevi)
 
 I'm
